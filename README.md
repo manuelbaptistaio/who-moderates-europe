@@ -14,6 +14,8 @@ The analysis brings the data into conversation with documented labour and regula
 
 The dashboard compares **January–May in 2024, 2025 and 2026**. Its three views show monthly decision counts, the automation mix, and total decision counts for each matched five-month period. These are not full-year comparisons.
 
+![TikTok dashboard: January–May comparison](05_dashboard/TikTok_%20Protection%20of%20Minors.png)
+
 ## Research question
 
 For the regulatory and Berlin labour context, see [Context and sources](06_report/context_and_sources.md), a short cited timeline prepared for author review.
@@ -92,9 +94,10 @@ For source definitions and interfaces, consult the Commission's [database docume
 
 ## Project status and reproducibility
 
-Repository preparation is in progress. The final notebook selection, dependencies, path configuration and clean rerun still need verification before this project can be described as reproducible from a fresh checkout. Existing originals and working drafts are preserved.
+This is an initial portfolio release. Selected saved notebooks, prepared tables, SQL, dashboard exports and source notes are included. Dependencies, path configuration and a clean rerun still need verification before this project can be described as reproducible from a fresh checkout. See the [notebook guide](03_notebooks/README.md) for the known setup and date-selection requirements. Existing originals and working drafts are preserved locally.
 
 ## Assistance
 
 This learning project was developed with AI assistance for code, troubleshooting, analysis discussion and documentation. Interpretations and exported deliverables require review against the underlying data.
+
 
