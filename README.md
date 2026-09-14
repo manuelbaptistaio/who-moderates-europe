@@ -53,6 +53,8 @@ These findings describe reported decision processes. They do not measure decisio
 
 ## Workflow
 
+**Using Python, MySQL and Tableau together was a deliberate learning choice.** Python could also handle the matched-month comparisons, percentage calculations and charts. I included MySQL to practise SQL and create a reusable comparison view, and Tableau to design an interactive dashboard.
+
 1. **Python:** inspect monthly archives, check coverage, aggregate decision counts and investigate changes.
 2. **MySQL:** import prepared monthly counts and create a reusable matched-period comparison view.
 3. **Tableau:** present counts and shares together in an interactive dashboard.
