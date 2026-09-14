@@ -1,0 +1,181 @@
+Year,Month,Category,Method,Count
+2024,2024-01,All categories,Fully automated,64073685
+2024,2024-01,All categories,Partially automated,0
+2024,2024-01,All categories,Non-automated,5159577
+2024,2024-02,All categories,Fully automated,58072494
+2024,2024-02,All categories,Partially automated,0
+2024,2024-02,All categories,Non-automated,4643624
+2024,2024-03,All categories,Fully automated,74380634
+2024,2024-03,All categories,Partially automated,1
+2024,2024-03,All categories,Non-automated,5934917
+2024,2024-04,All categories,Fully automated,65983179
+2024,2024-04,All categories,Partially automated,0
+2024,2024-04,All categories,Non-automated,4542673
+2024,2024-05,All categories,Fully automated,86420439
+2024,2024-05,All categories,Partially automated,0
+2024,2024-05,All categories,Non-automated,4512140
+2025,2025-01,All categories,Fully automated,104951067
+2025,2025-01,All categories,Partially automated,0
+2025,2025-01,All categories,Non-automated,5187349
+2025,2025-02,All categories,Fully automated,147787882
+2025,2025-02,All categories,Partially automated,0
+2025,2025-02,All categories,Non-automated,6927264
+2025,2025-03,All categories,Fully automated,193621113
+2025,2025-03,All categories,Partially automated,0
+2025,2025-03,All categories,Non-automated,8310817
+2025,2025-04,All categories,Fully automated,177159190
+2025,2025-04,All categories,Partially automated,0
+2025,2025-04,All categories,Non-automated,9150506
+2025,2025-05,All categories,Fully automated,99095230
+2025,2025-05,All categories,Partially automated,0
+2025,2025-05,All categories,Non-automated,3720387
+2026,2026-01,All categories,Fully automated,111178939
+2026,2026-01,All categories,Partially automated,2240
+2026,2026-01,All categories,Non-automated,9387227
+2026,2026-02,All categories,Fully automated,71363957
+2026,2026-02,All categories,Partially automated,0
+2026,2026-02,All categories,Non-automated,6591694
+2026,2026-03,All categories,Fully automated,38148584
+2026,2026-03,All categories,Partially automated,0
+2026,2026-03,All categories,Non-automated,3023851
+2026,2026-04,All categories,Fully automated,37259008
+2026,2026-04,All categories,Partially automated,0
+2026,2026-04,All categories,Non-automated,2402440
+2026,2026-05,All categories,Fully automated,35349187
+2026,2026-05,All categories,Partially automated,0
+2026,2026-05,All categories,Non-automated,2377844
+2024,2024-01,Illegal or harmful speech,Fully automated,28959612
+2024,2024-01,Illegal or harmful speech,Partially automated,0
+2024,2024-01,Illegal or harmful speech,Non-automated,438482
+2024,2024-02,Illegal or harmful speech,Fully automated,26674173
+2024,2024-02,Illegal or harmful speech,Partially automated,0
+2024,2024-02,Illegal or harmful speech,Non-automated,354979
+2024,2024-03,Illegal or harmful speech,Fully automated,31535722
+2024,2024-03,Illegal or harmful speech,Partially automated,0
+2024,2024-03,Illegal or harmful speech,Non-automated,455007
+2024,2024-04,Illegal or harmful speech,Fully automated,27862653
+2024,2024-04,Illegal or harmful speech,Partially automated,0
+2024,2024-04,Illegal or harmful speech,Non-automated,373777
+2024,2024-05,Illegal or harmful speech,Fully automated,33052371
+2024,2024-05,Illegal or harmful speech,Partially automated,0
+2024,2024-05,Illegal or harmful speech,Non-automated,401425
+2025,2025-01,Illegal or harmful speech,Fully automated,46360860
+2025,2025-01,Illegal or harmful speech,Partially automated,0
+2025,2025-01,Illegal or harmful speech,Non-automated,674123
+2025,2025-02,Illegal or harmful speech,Fully automated,71427769
+2025,2025-02,Illegal or harmful speech,Partially automated,0
+2025,2025-02,Illegal or harmful speech,Non-automated,837166
+2025,2025-03,Illegal or harmful speech,Fully automated,97518710
+2025,2025-03,Illegal or harmful speech,Partially automated,0
+2025,2025-03,Illegal or harmful speech,Non-automated,1267960
+2025,2025-04,Illegal or harmful speech,Fully automated,91842163
+2025,2025-04,Illegal or harmful speech,Partially automated,0
+2025,2025-04,Illegal or harmful speech,Non-automated,1243039
+2025,2025-05,Illegal or harmful speech,Fully automated,52125399
+2025,2025-05,Illegal or harmful speech,Partially automated,0
+2025,2025-05,Illegal or harmful speech,Non-automated,410563
+2026,2026-01,Illegal or harmful speech,Fully automated,13584548
+2026,2026-01,Illegal or harmful speech,Partially automated,35
+2026,2026-01,Illegal or harmful speech,Non-automated,1556813
+2026,2026-02,Illegal or harmful speech,Fully automated,8703351
+2026,2026-02,Illegal or harmful speech,Partially automated,0
+2026,2026-02,Illegal or harmful speech,Non-automated,2044784
+2026,2026-03,Illegal or harmful speech,Fully automated,3803545
+2026,2026-03,Illegal or harmful speech,Partially automated,0
+2026,2026-03,Illegal or harmful speech,Non-automated,901068
+2026,2026-04,Illegal or harmful speech,Fully automated,3063297
+2026,2026-04,Illegal or harmful speech,Partially automated,0
+2026,2026-04,Illegal or harmful speech,Non-automated,698893
+2026,2026-05,Illegal or harmful speech,Fully automated,3802264
+2026,2026-05,Illegal or harmful speech,Partially automated,0
+2026,2026-05,Illegal or harmful speech,Non-automated,803721
+2024,2024-01,Risk for public security,Fully automated,0
+2024,2024-01,Risk for public security,Partially automated,0
+2024,2024-01,Risk for public security,Non-automated,708
+2024,2024-02,Risk for public security,Fully automated,0
+2024,2024-02,Risk for public security,Partially automated,0
+2024,2024-02,Risk for public security,Non-automated,544
+2024,2024-03,Risk for public security,Fully automated,0
+2024,2024-03,Risk for public security,Partially automated,0
+2024,2024-03,Risk for public security,Non-automated,449
+2024,2024-04,Risk for public security,Fully automated,0
+2024,2024-04,Risk for public security,Partially automated,0
+2024,2024-04,Risk for public security,Non-automated,513
+2024,2024-05,Risk for public security,Fully automated,0
+2024,2024-05,Risk for public security,Partially automated,0
+2024,2024-05,Risk for public security,Non-automated,498
+2025,2025-01,Risk for public security,Fully automated,0
+2025,2025-01,Risk for public security,Partially automated,0
+2025,2025-01,Risk for public security,Non-automated,477
+2025,2025-02,Risk for public security,Fully automated,0
+2025,2025-02,Risk for public security,Partially automated,0
+2025,2025-02,Risk for public security,Non-automated,474
+2025,2025-03,Risk for public security,Fully automated,0
+2025,2025-03,Risk for public security,Partially automated,0
+2025,2025-03,Risk for public security,Non-automated,602
+2025,2025-04,Risk for public security,Fully automated,0
+2025,2025-04,Risk for public security,Partially automated,0
+2025,2025-04,Risk for public security,Non-automated,425
+2025,2025-05,Risk for public security,Fully automated,0
+2025,2025-05,Risk for public security,Partially automated,0
+2025,2025-05,Risk for public security,Non-automated,220
+2026,2026-01,Risk for public security,Fully automated,0
+2026,2026-01,Risk for public security,Partially automated,0
+2026,2026-01,Risk for public security,Non-automated,542
+2026,2026-02,Risk for public security,Fully automated,0
+2026,2026-02,Risk for public security,Partially automated,0
+2026,2026-02,Risk for public security,Non-automated,411
+2026,2026-03,Risk for public security,Fully automated,0
+2026,2026-03,Risk for public security,Partially automated,0
+2026,2026-03,Risk for public security,Non-automated,302
+2026,2026-04,Risk for public security,Fully automated,0
+2026,2026-04,Risk for public security,Partially automated,0
+2026,2026-04,Risk for public security,Non-automated,215
+2026,2026-05,Risk for public security,Fully automated,0
+2026,2026-05,Risk for public security,Partially automated,0
+2026,2026-05,Risk for public security,Non-automated,413
+2024,2024-01,Protection of minors,Fully automated,321363
+2024,2024-01,Protection of minors,Partially automated,0
+2024,2024-01,Protection of minors,Non-automated,1278539
+2024,2024-02,Protection of minors,Fully automated,309101
+2024,2024-02,Protection of minors,Partially automated,0
+2024,2024-02,Protection of minors,Non-automated,1333469
+2024,2024-03,Protection of minors,Fully automated,8681725
+2024,2024-03,Protection of minors,Partially automated,0
+2024,2024-03,Protection of minors,Non-automated,1937144
+2024,2024-04,Protection of minors,Fully automated,9543599
+2024,2024-04,Protection of minors,Partially automated,0
+2024,2024-04,Protection of minors,Non-automated,1297056
+2024,2024-05,Protection of minors,Fully automated,1988778
+2024,2024-05,Protection of minors,Partially automated,0
+2024,2024-05,Protection of minors,Non-automated,1080676
+2025,2025-01,Protection of minors,Fully automated,707286
+2025,2025-01,Protection of minors,Partially automated,0
+2025,2025-01,Protection of minors,Non-automated,855050
+2025,2025-02,Protection of minors,Fully automated,890736
+2025,2025-02,Protection of minors,Partially automated,0
+2025,2025-02,Protection of minors,Non-automated,1222061
+2025,2025-03,Protection of minors,Fully automated,1057082
+2025,2025-03,Protection of minors,Partially automated,0
+2025,2025-03,Protection of minors,Non-automated,1570040
+2025,2025-04,Protection of minors,Fully automated,1184299
+2025,2025-04,Protection of minors,Partially automated,0
+2025,2025-04,Protection of minors,Non-automated,2056679
+2025,2025-05,Protection of minors,Fully automated,551211
+2025,2025-05,Protection of minors,Partially automated,0
+2025,2025-05,Protection of minors,Non-automated,947036
+2026,2026-01,Protection of minors,Fully automated,661905
+2026,2026-01,Protection of minors,Partially automated,120
+2026,2026-01,Protection of minors,Non-automated,1066104
+2026,2026-02,Protection of minors,Fully automated,218475
+2026,2026-02,Protection of minors,Partially automated,0
+2026,2026-02,Protection of minors,Non-automated,504060
+2026,2026-03,Protection of minors,Fully automated,81206
+2026,2026-03,Protection of minors,Partially automated,0
+2026,2026-03,Protection of minors,Non-automated,194985
+2026,2026-04,Protection of minors,Fully automated,76290
+2026,2026-04,Protection of minors,Partially automated,0
+2026,2026-04,Protection of minors,Non-automated,170053
+2026,2026-05,Protection of minors,Fully automated,96332
+2026,2026-05,Protection of minors,Partially automated,0
+2026,2026-05,Protection of minors,Non-automated,169457

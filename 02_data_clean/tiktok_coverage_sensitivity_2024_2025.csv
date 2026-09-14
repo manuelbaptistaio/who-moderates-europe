@@ -1,0 +1,13 @@
+Year,Category,Comparison,Months included,Fully automated %,Partially automated %,Non-automated %
+2024,Illegal or harmful speech,All available months,12,98.64338312954176,0.0,1.3566168704582333
+2024,Protection of minors,All available months,12,63.861364694305536,0.0,36.138635305694464
+2024,Risk for public security,All available months,12,0.0,0.0,100.0
+2025,Illegal or harmful speech,All available months,12,98.6246189480787,9.198042877228754e-07,1.3753801321170087
+2025,Protection of minors,All available months,12,41.517487209756155,0.002766095091775128,58.47974669515207
+2025,Risk for public security,All available months,12,0.0,0.0,100.0
+2024,Illegal or harmful speech,Months without day gaps,11,98.63019449144467,0.0,1.3698055085553236
+2024,Protection of minors,Months without day gaps,11,64.82896146313445,0.0,35.17103853686555
+2024,Risk for public security,Months without day gaps,11,0.0,0.0,100.0
+2025,Illegal or harmful speech,Months without day gaps,9,98.70186415211316,2.3596969722454428e-07,1.2981356119171379
+2025,Protection of minors,Months without day gaps,9,41.08438671343175,0.0022209328473191954,58.91339235372093
+2025,Risk for public security,Months without day gaps,9,0.0,0.0,100.0

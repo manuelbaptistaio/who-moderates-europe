@@ -1,0 +1,37 @@
+Year,Category,Method,Count,Share %
+2024,All categories,Fully automated,348930431,93.36596679399997
+2024,All categories,Non-automated,24792931,6.634032938422424
+2024,All categories,Partially automated,1,2.6757759856720544e-07
+2024,Illegal or harmful speech,Fully automated,148084531,98.65185913459851
+2024,Illegal or harmful speech,Non-automated,2023670,1.3481408654014846
+2024,Illegal or harmful speech,Partially automated,0,0.0
+2024,Protection of minors,Fully automated,20844566,75.05753570663397
+2024,Protection of minors,Non-automated,6926884,24.94246429336603
+2024,Protection of minors,Partially automated,0,0.0
+2024,Risk for public security,Fully automated,0,0.0
+2024,Risk for public security,Non-automated,2712,100.0
+2024,Risk for public security,Partially automated,0,0.0
+2025,All categories,Fully automated,722614482,95.59520478080744
+2025,All categories,Non-automated,33296323,4.404795219192561
+2025,All categories,Partially automated,0,0.0
+2025,Illegal or harmful speech,Fully automated,359274901,98.78120524634845
+2025,Illegal or harmful speech,Non-automated,4432851,1.2187947536515527
+2025,Illegal or harmful speech,Partially automated,0,0.0
+2025,Protection of minors,Fully automated,4390614,39.76472356966639
+2025,Protection of minors,Non-automated,6650866,60.23527643033361
+2025,Protection of minors,Partially automated,0,0.0
+2025,Risk for public security,Fully automated,0,0.0
+2025,Risk for public security,Non-automated,2198,100.0
+2025,Risk for public security,Partially automated,0,0.0
+2026,All categories,Fully automated,293299675,92.49876273700781
+2026,All categories,Non-automated,23783056,7.500530827744592
+2026,All categories,Partially automated,2240,0.0007064352476043401
+2026,Illegal or harmful speech,Fully automated,32957005,84.58686712153863
+2026,Illegal or harmful speech,Non-automated,6005279,15.41304304807935
+2026,Illegal or harmful speech,Partially automated,35,8.983038201601912e-05
+2026,Protection of minors,Fully automated,1134208,35.01736808452766
+2026,Protection of minors,Non-automated,2104659,64.97892705342751
+2026,Protection of minors,Partially automated,120,0.003704862044830683
+2026,Risk for public security,Fully automated,0,0.0
+2026,Risk for public security,Non-automated,1883,100.0
+2026,Risk for public security,Partially automated,0,0.0
