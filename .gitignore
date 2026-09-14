@@ -1,0 +1,15 @@
+# Large source archives and local working material
+01_data_raw/
+00_project_admin/
+08_github/
+*.zip
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+Thumbs.db
+desktop.ini
+~$*
