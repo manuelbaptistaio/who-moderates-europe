@@ -1,0 +1,37 @@
+Year,Category,Method,decisions,share_percent
+2024,"All categories","Fully automated",348930431,93.36597
+2024,"All categories",Non-automated,24792931,6.63403
+2024,"All categories","Partially automated",1,0.00000
+2025,"All categories","Fully automated",722614482,95.59520
+2025,"All categories",Non-automated,33296323,4.40480
+2025,"All categories","Partially automated",0,0.00000
+2026,"All categories","Fully automated",293299675,92.49876
+2026,"All categories",Non-automated,23783056,7.50053
+2026,"All categories","Partially automated",2240,0.00071
+2024,"Illegal or harmful speech","Fully automated",148084531,98.65186
+2024,"Illegal or harmful speech",Non-automated,2023670,1.34814
+2024,"Illegal or harmful speech","Partially automated",0,0.00000
+2025,"Illegal or harmful speech","Fully automated",359274901,98.78121
+2025,"Illegal or harmful speech",Non-automated,4432851,1.21879
+2025,"Illegal or harmful speech","Partially automated",0,0.00000
+2026,"Illegal or harmful speech","Fully automated",32957005,84.58687
+2026,"Illegal or harmful speech",Non-automated,6005279,15.41304
+2026,"Illegal or harmful speech","Partially automated",35,0.00009
+2024,"Protection of minors","Fully automated",20844566,75.05754
+2024,"Protection of minors",Non-automated,6926884,24.94246
+2024,"Protection of minors","Partially automated",0,0.00000
+2025,"Protection of minors","Fully automated",4390614,39.76472
+2025,"Protection of minors",Non-automated,6650866,60.23528
+2025,"Protection of minors","Partially automated",0,0.00000
+2026,"Protection of minors","Fully automated",1134208,35.01737
+2026,"Protection of minors",Non-automated,2104659,64.97893
+2026,"Protection of minors","Partially automated",120,0.00370
+2024,"Risk for public security","Fully automated",0,0.00000
+2024,"Risk for public security",Non-automated,2712,100.00000
+2024,"Risk for public security","Partially automated",0,0.00000
+2025,"Risk for public security","Fully automated",0,0.00000
+2025,"Risk for public security",Non-automated,2198,100.00000
+2025,"Risk for public security","Partially automated",0,0.00000
+2026,"Risk for public security","Fully automated",0,0.00000
+2026,"Risk for public security",Non-automated,1883,100.00000
+2026,"Risk for public security","Partially automated",0,0.00000
