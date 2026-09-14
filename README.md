@@ -1,5 +1,7 @@
 # TikTok: Decision Automation and Protection of Minors
 
+**[View the Presentation (PDF)](07_presentation/TikTok%20-%20Portfolio%20Overview.pdf)** · **[Explore the Interactive Dashboard](https://public.tableau.com/app/profile/manuel.baptista/viz/Book1_17894077787600/TikTokProtectionofMinors)**
+
 An exploratory analysis of TikTok's reported moderation decisions, with the Berlin moderation layoffs as institutional context.
 
 ## Motivation
